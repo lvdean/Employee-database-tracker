@@ -1,5 +1,3 @@
-# Employee-database-tracker
-
 # Employee Database Tracker
 
 ![Static Badge](https://img.shields.io/badge/%20JAVASCRIPT%20%20-%20yellow%20?style=social&logo=javascript&logoColor=yellow&color=yellow)
