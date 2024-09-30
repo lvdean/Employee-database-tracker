@@ -4,10 +4,6 @@
 
 ![Static Badge](https://img.shields.io/badge/node-%20js-green)
 
-![Static Badge](https://img.shields.io/badge/MIT-purple)
-
-
-
 
 ## TABLE OF CONTENTS
 
